@@ -9,7 +9,7 @@ A high-performance automation engine designed for Agencies to audit, optimize, a
 
 ## 💼 Business Inquiries
 We provide custom automation development for scaling marketing agencies. 
-[Click here to contact the Founder for custom solutions](https://www.linkedin.com/in/sajida-abid-malik)
+[Click here to contact the Founder for custom solutions](https://www.linkedin.com/in/sajida-abid-malik-a44415365/)
 
 ## 🛠 Features
 - Advanced Keyword Density Analysis.
@@ -18,4 +18,3 @@ We provide custom automation development for scaling marketing agencies.
 
 ## 📜 License
 This project is proprietary-focused under the MIT License.
-  
