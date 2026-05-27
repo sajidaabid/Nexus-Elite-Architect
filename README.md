@@ -18,3 +18,4 @@ We provide custom automation development for scaling marketing agencies.
 
 ## 📜 License
 This project is proprietary-focused under the MIT License.
+  
